@@ -3,4 +3,5 @@ You are required to build an agent-based Retrieval-Augmented Generation (RAG) ch
 
 * create env python=3.10
 * install requirements.txt file
-* run app.py file by stramlit run app.py command.
+* run app.py file by streamlit run app.py command.
+* upload documents and ask the questions
